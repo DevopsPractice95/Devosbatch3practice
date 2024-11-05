@@ -30,5 +30,4 @@ touch dir8/f2
 
  
 
-# Verify structure (optional, for testing purposes)
-tree .
+
