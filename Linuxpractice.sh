@@ -3,7 +3,7 @@
  
 
 # Create directories from the root
-mkdir -p home
+mkdir -p dir
 mkdir -p dir1
 mkdir -p dir2/dir1/dir2
 mkdir -p dir2/dir1/dir2/dir10
@@ -16,12 +16,12 @@ mkdir -p dir4
 mkdir -p dir6/dir10/f3
 mkdir -p dir7/f3
 mkdir -p dir8/dir9
-mkdir -p opt/dir14/dir10/f3
+mkdir -p dir/dir14/dir10/f3
 
  
 
 # Create files
-touch home/f1
+touch dir/f1
 touch dir1/f1
 touch dir2/f2
 touch dir7/f3
